@@ -1,0 +1,16 @@
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\bin\Debug\netcoreapp2.1\Modelo.Application.deps.json
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\bin\Debug\netcoreapp2.1\Modelo.Application.runtimeconfig.json
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\bin\Debug\netcoreapp2.1\Modelo.Application.runtimeconfig.dev.json
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\bin\Debug\netcoreapp2.1\Modelo.Application.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.csprojAssemblyReference.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.RazorAssemblyInfo.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.RazorAssemblyInfo.cs
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.AssemblyInfoInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.AssemblyInfo.cs
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.RazorTargetAssemblyInfo.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\bin\Debug\netcoreapp2.1\Modelo.Application.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\teste\PaternTdd\TesteTdd\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\teste\PaternTdd\TesteTdd\Modelo.Application\obj\Debug\netcoreapp2.1\Modelo.Application.pdb

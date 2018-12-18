@@ -1,0 +1,9 @@
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.deps.json
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\PokeAwesomeX\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Modelo.Infra.CrossCutting.pdb
